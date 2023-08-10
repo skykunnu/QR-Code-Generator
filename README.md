@@ -1,5 +1,6 @@
 # QR-Code-Generator
 This Project is made Using HTML, CSS & Javascript. 
+
 It will generate the QR code for any website. you can also integrate any name in this QR code generator. 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
